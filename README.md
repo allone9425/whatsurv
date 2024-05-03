@@ -8,10 +8,10 @@
 - 내가 작성한,참여한,좋아요한 Surv 페이지 
 
 ### 5. 아키텍처
-![image](https://github.com/allone9425/whatsurv/assets/143374855/486afbc2-e0c8-4c9f-9ad9-ef23243a9d26)
+![image](https://github.com/allone9425/whatsurv/assets/143374855/05ec5e99-7052-40a5-a4b0-0a03be17ef0c)
 
 ### 6. 배포사이트
-https://whatsurv.vercel.app/
+[https://whatsurv.vercel.app/](https://whatsurv-project.vercel.app/)
 
 ### 7. 디자인
 1) 메인페이지
