@@ -5,13 +5,15 @@
 ### 4. 담당 기능
 - 로그인(구글 로그인 포함)과 회원가입 
 - 프로필 설정 페이지
-- 내가 작성한,참여한,좋아요한 Surv 페이지 
+- 내가 작성한,참여한,좋아요한 Surv 페이지
+
+더 자세히 보고 싶다면? [포트폴리오 바로가기(클릭)](https://nyang-nyang.notion.site/40b53b75a5ec4b7287af1a0437f6dc84?pvs=4)
 
 ### 5. 아키텍처
 ![image](https://github.com/allone9425/whatsurv/assets/143374855/05ec5e99-7052-40a5-a4b0-0a03be17ef0c)
 
 ### 6. 배포사이트
-[https://whatsurv.vercel.app/](https://whatsurv-project.vercel.app/)
+[[https://whatsurv.vercel.app/](https://whatsurv-project.vercel.app/)](https://whatsurv-project.vercel.app/)
 
 ### 7. 디자인
 1) 메인페이지
