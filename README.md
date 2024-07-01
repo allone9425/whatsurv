@@ -13,7 +13,7 @@
 ![image](https://github.com/allone9425/whatsurv/assets/143374855/05ec5e99-7052-40a5-a4b0-0a03be17ef0c)
 
 ### 6. 배포사이트
-[[https://whatsurv.vercel.app/](https://whatsurv-project.vercel.app/)](https://whatsurv-project.vercel.app/)
+https://whatsurv-project.vercel.app
 
 ### 7. 디자인
 1) 메인페이지
